@@ -1,6 +1,5 @@
-# HackIndia-Spark-7-2025-Syntax-Squad
+# Brain Tumor Prediction System
 
-Brain Tumor Prediction System
 This project is a full-stack application for brain tumor prediction using MRI scans. It consists of a React frontend for uploading and analyzing images, a FastAPI backend for serving a machine learning model, and a Streamlit application for fine-tuning the model.
 Table of Contents
 
